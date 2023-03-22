@@ -1,0 +1,3 @@
+﻿  GoldbergTarjanAlgorithmTests.cpp
+C:\Users\Евгений\Desktop\GoldbergTarjanAlgoritm\GoldbergTarjanAlgoritmTests\GoldbergTarjanAlgorithm.h(58,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GoldbergTarjanAlgoritmTests.vcxproj -> C:\Users\Евгений\Desktop\GoldbergTarjanAlgoritm\x64\Debug\GoldbergTarjanAlgoritmTests.exe

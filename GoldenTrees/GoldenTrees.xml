@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATS version="1.4">
+	<Problem title="Золотые деревья" lang="ru" tlimit="1" mlimit="128" author="SawMassacre" inputFile="*STDIN" outputFile="*STDOUT">
+		<Keyword code="alg.graph.tree"/>
+		<ProblemStatement>
+			<p>В древнем золотом храме главной реликвией считаются золотые деревья - искуссное изделие выполненное мастерами востока сотни лет назад. Пытаясь наживиться, бандиты под покровом ночи пробрались в храм и сняли силиконовые формы деревьев, чтобы с утра заменить их отлитыми из бронзы подделками. У них все бы получилось, но бандиты забыли измерить деревья, а понять сколько бронзы надо лить внутрь формы очень сложно. С помощью знаний алгоритмов помогите бандитам отлить формы не расходуя лишнюю бронзу.</p>
+			</ProblemStatement>
+		<InputFormat>
+			<p>В первой	строке входного файла дано целое число n - количество вершин и число v - количество ребер. Далее, в количестве v, идут тройки чисел - (v, u) графов соответственно и w - вместимость. Истоком s и стоком t считаются вершина под индексом 0 и вершина под индексом n</p>
+		</InputFormat>
+		<OutputFormat>
+			<p>Программа должна вывести вместимость формы золотого дерева.</p>
+		</OutputFormat>
+		
+		<Import type="checker" guid="std.nums"/>
+		<Solution name="solution" src="solution.cpp" de_code="102"/>
+		<Sample rank="1">
+			<SampleIn src="tests/%n.in"/>
+			<SampleOut src="tests/%n.out"/>
+		</Sample>
+		<Test rank="1-5">
+			<In src="tests/%n.in"/>
+		</Test>
+		<Test rank="1-5">
+			<Out use="solution"/>
+		</Test>
+	</Problem>
+</CATS>

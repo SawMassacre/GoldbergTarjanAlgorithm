@@ -1,0 +1,7 @@
+15 41
+18 72
+19 91
+25 168
+34 353
+
+end of MoreEdges tests

@@ -1,0 +1,2 @@
+C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgoritmTests\GoldbergTarjanAlgoritmTests\x64\Debug\GoldbergTarjanAlgoritmTests.vcxproj.CopyComplete
+C:\Users\Евгений\Desktop\GoldbergTarjanAlgoritm\GoldbergTarjanAlgoritmTests\x64\Debug\GoldbergTarjanAlgoritmTests.vcxproj.CopyComplete
